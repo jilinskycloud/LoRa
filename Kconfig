@@ -1,0 +1,6 @@
+config LORA_MOD 
+tristate "LORA_MOD"
+depends on ARM
+default m
+help
+LORA_MOD
